@@ -160,7 +160,7 @@ def split_boxes(board):
             # cv2.imshow("Splitted block", box)
             # cv2.waitKey(50)
             boxes.append(box)
-    cv2.destroyAllWindows()
+    # cv2.destroyAllWindows()
     return boxes
 
 
