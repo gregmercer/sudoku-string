@@ -1,4 +1,4 @@
 streamlit==1.1.0
-opencv-python==4.7.0.72
+opencv-python-headless==4.7.0.72
 tensorflow==2.13.0rc0
 imutils==0.5.4
